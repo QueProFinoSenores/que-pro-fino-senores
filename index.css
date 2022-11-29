@@ -1,4 +1,18 @@
-#que-pro-title {
-    font-size: 28px;
-    font-family: 'Courier New', Courier, monospace;
+.banner-home {
+	padding-top: 20%;
+}
+
+.demo-card-wide > .mdl-card__title {
+  color: #fff;
+  height: 150px;
+  width: inherit;
+  background: url('images/maxresdefault.jpg') center / cover;
+}
+
+.demo-card-wide > .mdl-card__supporting-text {
+	font-size: medium;
+}
+
+.demo-card-wide.mdl-card {
+  width: 768px;
 }
