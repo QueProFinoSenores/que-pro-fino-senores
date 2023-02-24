@@ -5,7 +5,7 @@
 .demo-card-wide > .mdl-card__title {
   color: #fff;
   width: inherit;
-  height: fit-content;
+  height: 25%;
   background: url('images/maxresdefault.jpg') center / cover;
 }
 
